@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated Computer Science student with a passion for technology and creative problem-solving. My journey in tech has involved exploring new tools and techniques, from building software applications to designing user-friendly interfaces. I’ve worked on hands-on projects that have strengthened my skills in programming and software design, and I’m always looking for new challenges to tackle. Recently, I got interested in game development, which has opened up a whole new world of possibilities that I'm excited to explore. It’s been a fun and cool way to blend my love for tech with creativity.<br>
+I'm a dedicated Computer Science student with a passion for technology and creative problem-solving. My journey in tech has involved exploring new tools and techniques, from building software applications to designing user-friendly interfaces. I’ve worked on hands-on projects that have strengthened my skills in programming and software design, and I’m always looking for new challenges to tackle. Recently, I got interested in game development, which has opened up a whole new world of possibilities that I'm excited to explore. It’s been a fun and cool way to blend my love for tech with creativity lol.<br>
 
 
 ## 🌐 Socials:
