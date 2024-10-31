@@ -1,5 +1,6 @@
 # 💫 Me:
-"I'm a Computer Science student with a big love for tech and creative problem-solving. My journey so far has been packed with hands-on projects, from building apps to designing user-friendly interfaces, which have really leveled up my skills in coding and software design. Recently, I dove into game development, and it’s been a blast. It’s opened up an exciting new way to blend tech with creativity, and I’m excited to see where it takes me next."<br>
+I’m a CS student who’s enjoys tech and turning ideas into reality. I’ve been deep in projects like building apps and crafting slick interfaces, leveling up my skills along the way. Lately, I’ve jumped into game dev, and it’s been wild—mixing creativity with code has opened up a whole new lane for me. Can’t wait to see what’s next.
+
 
 
 ## 🌐 Socials:
