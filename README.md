@@ -1,5 +1,5 @@
-# 💫 Me:
-I’m a CS student who’s enjoys tech and turning ideas into reality. I’ve been deep in projects like building apps and crafting slick interfaces, leveling up my skills along the way. Lately, I’ve jumped into game dev, and it’s been wild—mixing creativity with code has opened up a whole new lane for me. Can’t wait to see what’s next.
+# I’m Amjad, 21, game dev with experience in C++ and Java. Been deep in building systems, mechanics, and playable worlds—Unreal Engine is home base now. I mix code with creative vision and make it all move. Carks, my first game, is in development. Stay tuned.
+
 
 
 
