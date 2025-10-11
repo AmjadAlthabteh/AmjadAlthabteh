@@ -1,6 +1,7 @@
 
-I’m Amjad, 21, game dev with experience in C++ and Java. Been deep in building systems, mechanics, and playable worlds—Unreal Engine is home base now. I mix code with creative vision and make it all move. Carks, my first game, is in development. Stay tuned.
-
+Building Karkosa and Glint3D — worlds where creativity and tech collide.
+I design systems, craft mechanics, and shape experiences that feel alive in Unreal Engine.
+From rendering pipelines to cinematic storytelling, everything I build is meant to move, think, and leave a mark.
 
 
 
