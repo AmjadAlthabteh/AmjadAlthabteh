@@ -1,7 +1,11 @@
+Hey, I’m Amjad, I am a backend engineer who enjoys C++ .
 
-building Karkosa and immersalab — worlds where creativity and tech collide and create awsome software.
-I design systems, craft mechanics, and shape experiences that feel alive in Unreal Engine.
-From rendering pipelines to cinematic storytelling, everything I build is meant to move, think, and innovate1
+Into graphics programming and all the rendering behind how things actually show up on screen.
+
+I enjoy building games and interactive worlds — there’s something addictive about making something you can walk around in... and run.
+
+Graphics is honestly one of my biggest passions. Cool things like pelines,, engine, also a full-on C++ enthusiast
+
 
 
 
