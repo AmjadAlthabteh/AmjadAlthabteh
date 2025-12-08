@@ -1,4 +1,4 @@
-Hey, I’m Amjad, I am a backend engineer who enjoys C++ .
+Hey, I’m Amjad, I am a backend engineer who enjoys C++ , at wayne state university 
 
 Into graphics programming and all the rendering behind how things actually show up on screen.
 
