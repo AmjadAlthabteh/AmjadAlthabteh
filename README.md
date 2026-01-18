@@ -1,9 +1,4 @@
-Hey, I’m Amjad, I am a student who enjoys C++ 
-Into graphics programming and all the rendering behind how things actually show up on screen.
-
-I enjoy building games and interactive worlds — there’s something addictive about making something you can walk around in... and run.
-
-Graphics is honestly one of my biggest passions. Cool things like pelines,, engine, also a full-on C++ enthusiast
+Focused on C++ graphics programming, real-time rendering, and engine development. Love creating interactive worlds and digging into the full rendering pipeline to understand how everything ends up on screen.
 
 
 
