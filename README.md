@@ -1,4 +1,4 @@
-Focused on C++ programming, real-time rendering, and engine development. Love creating interactive worlds and digging into the full rendering pipeline to understand how everything ends up on screen.
+Focused on C++ programming, real-time rendering, and engine development. Find joy creating interactive worlds and diving into the full rendering pipeline to understand how graphics ends up on screen though code.
 
 
 
