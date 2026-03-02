@@ -1,4 +1,5 @@
-Focused on C++ programming, real-time rendering, and engine development. Find joy creating interactive worlds and diving into the full rendering pipeline to understand how graphics ends up on screen though code.
+C++ / Unreal Engine Developer focused on real-time rendering, simulation systems, and engine architecture.
+Building low-level graphics and performance-critical systems from scratch.
 
 
 
