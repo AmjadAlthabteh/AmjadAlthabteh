@@ -1,5 +1,4 @@
-C++ / Unreal Engine Developer focused on real-time rendering, simulation systems, and engine architecture.
-Building low-level graphics and performance-critical systems from scratch.
+C++ Graphics Engineer building real-time rendering engines, GPU-driven pipelines, and performance-critical systems in C++17–C++23.
 
 
 
