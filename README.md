@@ -1,4 +1,4 @@
-C++ Graphics Dev building real-time rendering engines, GPU-driven pipelines, and performance-critical systems in C++17–C++23.
+Graphics and systems developer building real-time rendering engines, GPU pipelines, and low-level performance-focused systems in modern C++.
 
 
 
