@@ -1,5 +1,4 @@
-Graphics and systems developer building real-time rendering engines, GPU pipelines, and low-level performance-focused systems in modern C++.
-
+Graphics and systems engineer building real-time rendering engines, simulation systems, GPU pipelines, and performance-critical software in modern C++.
 
 
 
